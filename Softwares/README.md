@@ -8,7 +8,7 @@ Begin by downloading and installing Python, ensuring a smooth integration with y
 
 Or utilize the [Python 3.8.2 Web Installer](https://www.python.org/ftp/python/3.8.2/python-3.8.2-webinstall.exe) for a streamlined installation process.
 
-## Step 2: Verification of Python Installation 📊
+## Step 2: Verification of Python Installation 
 
 Open the Command Prompt and execute the following command to confirm the installed Python version:
 
